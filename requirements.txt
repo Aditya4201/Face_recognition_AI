@@ -1,0 +1,20 @@
+
+# ==========================================
+# Face Recognition AI - Dependencies
+# Python 3.11 recommended
+# ==========================================
+
+# Computer Vision and Image Processing
+opencv-python>=4.10.0
+
+# Numerical Computing
+numpy>=1.26.0
+
+# Image Processing Utilities
+Pillow>=10.0.0
+
+# Machine Learning and Face Recognition
+scikit-learn>=1.4.0
+
+# Face Recognition Model Runtime
+onnxruntime-gpu
